@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Plaggy"
+  },
+  "appDesc": {
+    "message": "Plagiarism Checker" 
+  },
+  "loading_key": {
+    "message": "Loading..."
+  },
+  "fail_url_key": {
+    "message": "There is no URL in a tab. Open a page you want to check in active tab and click plugin icon once."
+  }
+}

@@ -1,0 +1,20 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 2,
+  "name": "Plaggy - Plagiarism and Content Checker",
+  "short_name": "Plaggy",
+  "description": "Easy-to-use  content checker, that helps to check text for plagiarism, readability, relevance, keyword stuffing.",
+  "version": "99.9",
+  "default_locale": "en",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "Plaggy" // when hover over icon
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
